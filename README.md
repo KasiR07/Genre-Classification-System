@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
@@ -197,3 +198,7 @@ Rayaan Faiz
 	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
 </p>
 
+=======
+# Genre-Classification-System
+The project aims to develop a Genre identification system that can accurately determine the genre of a song by analyzing its waveforms. By leveraging Machine learning techniques and audio signal processing, we will extract relevant features from the waveforms and train a classification model to recognize various music genres. 
+>>>>>>> 74c3944eed25b0106c08fd7a88087131f20f5509
