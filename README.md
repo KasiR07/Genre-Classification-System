@@ -33,10 +33,12 @@ We employed a Convolutional Neural Network (CNN) as the algorithm for genre iden
 
 # Model Comparisom
 In our project, we utilized a Convolutional Neural Network (CNN) as the primary model for genre identification. When compared to other models commonly used in audio analysis tasks, CNNs exhibit several advantages that make them better suited for genre identification:
+
       Hierarchical Feature Learning
       Spatial Invariance
       Parameter Sharing
       Robustness to Noise
+      
 While other models such as Recurrent Neural Networks (RNNs) or Support Vector Machines (SVMs) have been used in audio analysis tasks, CNNs have demonstrated superior performance and outperformed these models in genre identification.
 
 
