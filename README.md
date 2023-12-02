@@ -10,7 +10,7 @@ The concept used in this project revolves around the analysis of audio waveforms
 # Business Use Case
 The genre identification system developed in this project presents a valuable business use case for music platforms. Music platforms can leverage this technology to provide personalized recommendations, curated playlists, and tailored user experiences based on individual genre preferences. Ultimately, the genre identification system enhances the competitive edge of music platforms.
 
-![image](https://github.com/KasiR07/Genre-Classification-System/assets/108777263/79bed0e2-f315-4551-af5a-1a40e29c7e17)
+![image](https://github.com/KasiR07/Genre-Classification-System/assets/108777263/550ba559-1529-41b5-b8c7-a2bb95bea80a)
 
 #Important Use Case
 The genre identification system developed in this project serves as an important tool for music education. It allows students and educators to analyze and understand different music genres by analyzing their waveforms. Students can explore various genres, learn about their distinguishing features, and develop a deeper appreciation for different musical styles. This use case promotes music literacy, broadens students' musical horizons, and nurtures a well-rounded music education. 
