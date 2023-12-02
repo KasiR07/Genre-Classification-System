@@ -15,6 +15,37 @@ The genre identification system developed in this project presents a valuable bu
 #Important Use Case
 The genre identification system developed in this project serves as an important tool for music education. It allows students and educators to analyze and understand different music genres by analyzing their waveforms. Students can explore various genres, learn about their distinguishing features, and develop a deeper appreciation for different musical styles. This use case promotes music literacy, broadens students' musical horizons, and nurtures a well-rounded music education. 
 
+# Our Data
+Dataset Diversity: We ensured that the training dataset encompassed a wide range of music genres to promote accurate genre identification.
+
+Training Data: To train our genre identification model, we utilized a dataset in .csv format. This dataset consisted of audio samples from various music genres
+
+Audio Waveform Files: For real-time input and testing purposes, we used .wave audio files. Users could upload their own songs or provide links to .wav files,
+
+Preprocessing: Prior to training and testing, the audio waveform files were preprocessed. This involved converting the waveforms into appropriate formats for analysis.
+
+# Architecture 
+
+![image](https://github.com/KasiR07/Genre-Classification-System/assets/108777263/b0751720-6663-4f55-ac43-f43af928c989)
+
+# Algorithm 
+We employed a Convolutional Neural Network (CNN) as the algorithm for genre identification. CNNs are well-suited for image and audio analysis tasks due to their ability to automatically learn hierarchical representations from raw data. For genre identification, we transformed the audio waveforms into spectrograms, which are 2D representations of the audio signals' frequency content over time. During the training phase, the CNN learned to recognize genre-specific patterns and features through backpropagation and gradient descent optimization. We trained the model using a large dataset with labeled genre information.
+
+# Model Comparisom
+In our project, we utilized a Convolutional Neural Network (CNN) as the primary model for genre identification. When compared to other models commonly used in audio analysis tasks, CNNs exhibit several advantages that make them better suited for genre identification:
+      Hierarchical Feature Learning
+      Spatial Invariance
+      Parameter Sharing
+      Robustness to Noise
+While other models such as Recurrent Neural Networks (RNNs) or Support Vector Machines (SVMs) have been used in audio analysis tasks, CNNs have demonstrated superior performance and outperformed these models in genre identification.
+
+
+      
+
+
+
+
+
 
 
 
